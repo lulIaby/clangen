@@ -12,12 +12,12 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c believes {PRONOUN/m_c/subject}} are part of a new prophecy."
+        "event_text": "m_c believes {PRONOUN/m_c/subject} {VERB/m_c/are/is} part of a new prophecy."
     },
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c believes {PRONOUN/m_c/subject}'{VERB/m_c/s/re} meant for something greater."
+        "event_text": "m_c believes {PRONOUN/m_c/subject}'{VERB/m_c/re/s} meant for something greater."
     },
     {
         "camp": "any",
@@ -90,7 +90,7 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c wasn't looking where {PRONOUN/m_c/subject} were going and tripped over a small trunk, but came out of it with only {PRONOUN/m_c/poss} pride bruised."
+        "event_text": "m_c wasn't looking where {PRONOUN/m_c/subject} {VERB/m_c/were/was} going and tripped over a small trunk, but came out of it with only {PRONOUN/m_c/poss} pride bruised."
     },
     {
         "camp": "any",
