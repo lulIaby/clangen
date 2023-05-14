@@ -7,7 +7,7 @@
 			"m_c asks r_c if {PRONOUN/r_c/subject} could use some help getting introduced to the other clan members."
 		]
 	},
-		{
+  { 
 		"id": "gen2",
 		"interactions":[
 			"m_c offers r_c some feathers as a welcome gift, that {PRONOUN/r_c/subject} can use to decorate {PRONOUN/r_c/poss} new nest.",
@@ -16,6 +16,7 @@
 		"reaction_random_cat": {
 			"platonic": "increase",
 			"trust": "increase"
+    }
 	},
 	{
 		"id": "gen_wander1",
