@@ -15,4 +15,12 @@
 		],
 		"background": ["wandering_healer1"]
 	}
+	{
+		"id": "gen_platonic1",
+		"interactions":[
+			"m_c offers r_c some feathers as a welcome gift, that {PRONOUN/r_c/subject} can use to decorate {PRONOUN/r_c/poss} new nest."
+		],
+		"reaction_random_cat": {
+			"platonic": "increase"
+		}
 ]
