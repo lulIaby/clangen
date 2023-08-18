@@ -1275,19 +1275,19 @@
         "chance_of_success": 70,
         "success_outcomes": [
             {
-                "text": "Leaf-fall is upon the Clan, which means p_l must think of the coming leaf-bare, where daisy leaves will become near-impossible to find. Best to stock up now, rather than worrying later when {PRONOUN/p_l/subject} {VERB/p_l/have/haves} none.",
+                "text": "Leaf-fall is upon the Clan, which means p_l must think of the coming leaf-bare, where daisy leaves will become near-impossible to find. Best to stock up now, rather than worrying later when {PRONOUN/p_l/subject} {VERB/p_l/have/has} none.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": ["daisy"]
             },
             {
-                "text": "Daisies aren't hard to find, even with the weather turning cold, and s_c collects enough that {PRONOUN/s_c/subject} {VERB/s_c/have/haves} trouble not dropping any on the way back to camp.",
+                "text": "Daisies aren't hard to find, even with the weather turning cold, and s_c collects enough that {PRONOUN/s_c/subject} {VERB/s_c/have/has} trouble not dropping any on the way back to camp.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": ["many_herbs", "daisy"]
             },
             {
-                "text": "Daisies aren't hard to find, even with the weather turning cold, and s_c collects enough that {PRONOUN/s_c/subject} {VERB/s_c/have/haves} trouble not dropping any on the way back to camp.",
+                "text": "Daisies aren't hard to find, even with the weather turning cold, and s_c collects enough that {PRONOUN/s_c/subject} {VERB/s_c/have/has} trouble not dropping any on the way back to camp.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": ["SENSE,2"],
