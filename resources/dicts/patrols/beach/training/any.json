@@ -1008,7 +1008,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 maintains that octopus are prey, not opponents or weird transformed dead cats or anything like that, just prey, and p_l can't get {PRONOUN/app1/subject} to take the training session seriously.",
+                "text": "app1 maintains that octopus are prey, not opponents or weird transformed dead cats or anything like that, just prey, and p_l can't get {PRONOUN/app1/object} to take the training session seriously.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
