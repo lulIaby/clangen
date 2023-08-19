@@ -358,6 +358,16 @@
     },
     {
         "camp": "any",
+        "tags":[
+            "Leaf-fall"
+        ],
+        "event_text": "As the wind brings many fallen leaves in the camp, m_c picks some acc_plural to decorate {PRONOUN/m_c/poss} pelt.",
+        "accessories": [
+            "OAK LEAVES"
+        ]
+    },
+    {
+        "camp": "any",
         "tags": [
             "Newleaf"
         ],
