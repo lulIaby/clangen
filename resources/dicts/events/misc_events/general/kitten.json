@@ -352,7 +352,6 @@
         ],
         "event_text": "As the wind brings many fallen leaves in the camp, m_c picks a acc_singular to decorate {PRONOUN/m_c/poss} pelt.",
         "accessories": [
-            "OAK LEAVES",
             "MAPLE LEAF"
         ]
     },
