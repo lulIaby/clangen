@@ -5,7 +5,7 @@
         "season": ["Any"],
         "types": ["hunting"],
         "tags": [],
-        "patrol_art": "hunt_general_intro",
+        "patrol_art": "pln_hunt_prairiedog1",
         "min_cats": 1,
         "max_cats": 3,
         "min_max_status": {},
@@ -1649,7 +1649,7 @@
                 "weight": 5
             },
             {
-                "text": "Something about this situation sets all of s_c's instincts off. {PRONOUN/s_c/subject/CAP} {VERB/s_c/investigate/investigates}, carefully, and the patrol helps {PRONOUN/s_c/subject} strip the cover of the earth away from a Twoleg trap underneath.",
+                "text": "Something about this situation sets all of s_c's instincts off. {PRONOUN/s_c/subject/CAP} {VERB/s_c/investigate/investigates}, carefully, and the patrol helps {PRONOUN/s_c/object} strip the cover of the earth away from a Twoleg trap underneath.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"]
